@@ -15,3 +15,5 @@ An example of running the command:
 Expected output: Encrypted message from helloworld to khoorzruog.
 
 cipher type = caesar. Mode = encrypt. Message = helloworld. Shift = 3.
+
+Options of running: Pick either caesar or vigenere. Thereafter pick either encrypt or decrypt, followed by the message and shift(caesar) or key(vigenere). 
