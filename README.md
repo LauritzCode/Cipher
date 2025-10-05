@@ -1,7 +1,4 @@
-*Cipher project
-
-**Modularization 
-
+Cipher project:
 My approach was to divide the program into clear and separate parts so each handled one specific task.
 
 Starting with the CLI, I made sure it was only responsible for reading and validating the command-line arguments, deciding which cipher to use, and calling the correct function. 
